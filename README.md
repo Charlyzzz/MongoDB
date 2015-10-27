@@ -4,7 +4,10 @@
     -  -[X] HW 1
     -  -[X] HW 2
     -  -[X] HW 3
-  - [ ] Chapter 2: CRUD
+  - [X] Chapter 2: CRUD
+    -  -[X] HW 1
+    -  -[X] HW 2
+    -  -[X] HW 3
   - [ ] Chapter 3: Schema Design
   - [ ] Chapter 4: Performance
   - [ ] Chapter 5: Aggregation Framework
