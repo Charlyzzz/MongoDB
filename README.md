@@ -9,6 +9,9 @@
     -  -[X] HW 2
     -  -[X] HW 3
   - [ ] Chapter 3: Schema Design
+    -  -[X] HW 1
+    -  -[X] HW 2
+    -  -[X] HW 3
   - [ ] Chapter 4: Performance
   - [ ] Chapter 5: Aggregation Framework
   - [ ] Chapter 6: Application Engineering
