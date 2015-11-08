@@ -13,6 +13,10 @@
     -  -[X] HW 2
     -  -[X] HW 3
   - [ ] Chapter 4: Performance
+    -  -[X] HW 1
+    -  -[X] HW 2
+    -  -[X] HW 3
+    -  -[X] HW 4
   - [ ] Chapter 5: Aggregation Framework
   - [ ] Chapter 6: Application Engineering
   - [ ] Chapter 7: Case Studies
