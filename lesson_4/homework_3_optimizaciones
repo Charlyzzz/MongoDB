@@ -1,0 +1,10 @@
+Indices
+
+Homepage
+db.posts.createIndex({date:-1})
+
+By tags
+db.posts.createIndex({tags:1,date:1})
+
+Permalinks
+db.posts.createIndex({permalink:1},{unique:true})

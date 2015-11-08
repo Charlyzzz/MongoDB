@@ -1,0 +1,20 @@
+Queries y yerbas necesarias
+
+use m101
+
+db.profile.distinct("ns")
+
+    [
+            "school2.$cmd",
+            "school2.system.indexes",
+            "school2.student_grades",
+            "school2.students",
+            "school2.gpa",
+            "school2.system.profile",
+           "school2.class_avg"
+    ]
+
+
+
+db.profile.find({ns: "school2.students"}).sort({millis:-1}).limit(1).pretty()
+
